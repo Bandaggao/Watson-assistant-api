@@ -1,0 +1,20 @@
+{
+  "name": "my-watson-bot",
+  "version": "1.0.0",
+  "description": "bot using ibm watson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "watson-developer-cloud": "^3.15.0"
+  }
+}
